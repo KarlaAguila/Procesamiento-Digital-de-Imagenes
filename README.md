@@ -1,4 +1,5 @@
 # Procesamiento-Digital-de-Imagenes
 Operaciones Logicas
 
-![image](https://github.com/user-attachments/assets/276e82c0-97aa-4fbe-8139-ed2b95c8d4d2)
+![image](https://github.com/user-attachments/assets/aee3cfb6-2720-4f67-8a73-72e825de8c58)
+
